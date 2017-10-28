@@ -1,3 +1,14 @@
+*.adb
+*.asm
+*.cdb
+*.ihx
+*.lk
+*.lst
+*.map
+*.rel
+*.rst
+*.sym
+
 # Prerequisites
 *.d
 
